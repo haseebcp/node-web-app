@@ -1,0 +1,49 @@
+.container{
+    height: 570px;
+}
+.header-txt{
+    color:#ff0000;
+}
+.navbar-default .navbar-nav > li > a{
+    color: #ffffff;
+}
+.navbar-default .navbar-brand{
+    color: #ffffff;
+}
+.navbar-default {
+    background-color: #346B84;;
+    border-color: #346B84;;
+}
+.footer-wrap{
+    background: #1b6d85;
+    padding: 15px;
+    color: #fff;
+    font-size: 11px;
+}
+.login-from-wrap{
+    margin-left: 30%;
+    padding-bottom: 15px;
+   margin-top:10%;
+    background-color: #1b6d85;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 40%;
+    margin-bottom: 15px;
+
+}
+
+.login-from-wrap form{
+    width: 95%;
+    padding: 33px;
+}
+.sb-btm-wrapp{
+    text-align: center;
+
+}
+.sb-btm-wrapp .btn {
+    background-color: #008b8b;
+    color: #ffffff;
+    border-color: #008b8b;
+    box-shadow: rebeccapurple;
+    padding: 6px 44px;
+}
