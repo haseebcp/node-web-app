@@ -23,5 +23,9 @@
   },
   "devDependencies": {
     "concurrently": "^3.5.0"
+  },
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/haseebcp/node-web-app.git"
   }
 }
